@@ -7,4 +7,3 @@ class Hash
         array << key
       end
     end
-end
